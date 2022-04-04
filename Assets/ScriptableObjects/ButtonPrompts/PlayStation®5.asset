@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a212a9fdc7b0a3c46976eda2cb22cbb1, type: 3}
+  m_Name: "PlayStation\xAE5"
+  m_EditorClassIdentifier: 
+  name: "PlayStation\xAE5"
+  isController: 1
+  buttonN: {fileID: 21300000, guid: 7818e0183af0109469cccf968e14b3eb, type: 3}
+  buttonE: {fileID: 21300000, guid: b73c2251b3607a54e85a5694d66e4caf, type: 3}
+  buttonS: {fileID: 21300000, guid: 804041e43e69c0342be789a9750d98f9, type: 3}
+  buttonW: {fileID: 21300000, guid: 5479beb1297f44943bac3fc7e752cc1b, type: 3}
+  lookInput: {fileID: 21300000, guid: 50536339448510d4c8399b2bba299c9b, type: 3}
+  start: {fileID: 21300000, guid: 82a6fee35c3807d499080f8c306a92db, type: 3}
+  select: {fileID: 21300000, guid: 3544db5fa157cc243b77cdb4b8d18c18, type: 3}
+  rightBumper: {fileID: 21300000, guid: 95e54ad2eac52fb4abd603184cdf2e6c, type: 3}
+  leftBumper: {fileID: 21300000, guid: 40b3363104087034f97ef86188276359, type: 3}
+  fullController: {fileID: 21300000, guid: a4ad13aaef729dc409e5f51cbaa5b490, type: 3}

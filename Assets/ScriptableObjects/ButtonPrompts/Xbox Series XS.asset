@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a212a9fdc7b0a3c46976eda2cb22cbb1, type: 3}
+  m_Name: Xbox Series XS
+  m_EditorClassIdentifier: 
+  name: Xbox Series XS
+  isController: 1
+  buttonN: {fileID: 21300000, guid: 75c66d85e9e9dfc4783eeb5b3ca5676e, type: 3}
+  buttonE: {fileID: 21300000, guid: 6b072862f773c02468613373091f8c89, type: 3}
+  buttonS: {fileID: 21300000, guid: b8d757d282547f444bf1a4986a92c576, type: 3}
+  buttonW: {fileID: 21300000, guid: 92d30c9f39c92174aab91c574be31679, type: 3}
+  lookInput: {fileID: 21300000, guid: 19c20d351471c124ba4f1ec079e0438b, type: 3}
+  start: {fileID: 21300000, guid: 82c9231adddf4d646823b8a94f89d35c, type: 3}
+  select: {fileID: 21300000, guid: 2d7e119fe9c94d14f83a647238d2cadc, type: 3}
+  rightBumper: {fileID: 21300000, guid: 49e4bb905cc4510459b3d9bad3fdeedb, type: 3}
+  leftBumper: {fileID: 21300000, guid: 821c77b5dc88641448876a805fa09cb2, type: 3}
+  fullController: {fileID: 21300000, guid: 4717c375bc372174197da4454cfb37c6, type: 3}
